@@ -1,0 +1,3366 @@
+{
+	"type" : "FeatureCollection",
+
+	"features" : [{
+			"type" : "Feature",
+			"id" : 0,
+			"properties" : {
+				"STATION" : "VL015",
+				"LATITUDE" : 54.718756,
+				"LONGITUDE" : 25.407747,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.435336, 54.73192], [25.413634, 54.702857], [25.408338, 54.699649], [25.389312, 54.717925], [25.391925, 54.727436], [25.435336, 54.73192]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 1,
+			"properties" : {
+				"STATION" : "VL031",
+				"LATITUDE" : 54.720806,
+				"LONGITUDE" : 25.336236,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.3399, 54.729291], [25.341914, 54.707658], [25.336415, 54.705022], [25.32806, 54.715626], [25.328509, 54.720097], [25.3399, 54.729291]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 2,
+			"properties" : {
+				"STATION" : "VL060",
+				"LATITUDE" : 54.739669,
+				"LONGITUDE" : 25.313936,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.327393, 54.740538], [25.321794, 54.732764], [25.310272, 54.728019], [25.309043, 54.72874], [25.302001, 54.736941], [25.300436, 54.74111], [25.322467, 54.758504], [25.327393, 54.740538]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 3,
+			"properties" : {
+				"STATION" : "VL086",
+				"LATITUDE" : 54.708889,
+				"LONGITUDE" : 25.321111,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.32806, 54.715626], [25.336415, 54.705022], [25.335241, 54.702697], [25.326962, 54.700786], [25.315751, 54.709371], [25.321585, 54.71561], [25.32806, 54.715626]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 4,
+			"properties" : {
+				"STATION" : "VL100",
+				"LATITUDE" : 54.704322,
+				"LONGITUDE" : 25.317614,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.315751, 54.709371], [25.326962, 54.700786], [25.322621, 54.698308], [25.317532, 54.699057], [25.310877, 54.708099], [25.315751, 54.709371]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 5,
+			"properties" : {
+				"STATION" : "VL104",
+				"LATITUDE" : 54.727500,
+				"LONGITUDE" : 25.330833,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.341495, 54.733157], [25.3399, 54.729291], [25.328509, 54.720097], [25.321794, 54.732764], [25.327393, 54.740538], [25.340564, 54.734639], [25.341495, 54.733157]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 6,
+			"properties" : {
+				"STATION" : "VL128",
+				"LATITUDE" : 54.793872,
+				"LONGITUDE" : 25.439803,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.482427, 54.834414], [25.482427, 54.743055], [25.456052, 54.745704], [25.420186, 54.768103], [25.416417, 54.834414], [25.482427, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 7,
+			"properties" : {
+				"STATION" : "VL129",
+				"LATITUDE" : 54.728056,
+				"LONGITUDE" : 25.373889,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.390176, 54.732433], [25.391925, 54.727436], [25.389312, 54.717925], [25.37542, 54.710473], [25.361102, 54.731489], [25.368916, 54.745951], [25.369745, 54.745973], [25.390176, 54.732433]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 8,
+			"properties" : {
+				"STATION" : "VL144",
+				"LATITUDE" : 54.791483,
+				"LONGITUDE" : 25.397775,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.416417, 54.834414], [25.420186, 54.768103], [25.409263, 54.766461], [25.393879, 54.770063], [25.384295, 54.778748], [25.381064, 54.784736], [25.400526, 54.834414], [25.416417, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 9,
+			"properties" : {
+				"STATION" : "VL154",
+				"LATITUDE" : 54.721628,
+				"LONGITUDE" : 25.345067,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.354365, 54.728915], [25.349789, 54.708707], [25.341914, 54.707658], [25.3399, 54.729291], [25.341495, 54.733157], [25.354365, 54.728915]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 10,
+			"properties" : {
+				"STATION" : "VL156",
+				"LATITUDE" : 54.740303,
+				"LONGITUDE" : 25.351222,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.368916, 54.745951], [25.361102, 54.731489], [25.354365, 54.728915], [25.341495, 54.733157], [25.340564, 54.734639], [25.353931, 54.759501], [25.354224, 54.759372], [25.368916, 54.745951]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 11,
+			"properties" : {
+				"STATION" : "VL158",
+				"LATITUDE" : 54.749139,
+				"LONGITUDE" : 25.387861,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.409263, 54.766461], [25.390176, 54.732433], [25.369745, 54.745973], [25.393879, 54.770063], [25.409263, 54.766461]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 12,
+			"properties" : {
+				"STATION" : "VL159",
+				"LATITUDE" : 54.764083,
+				"LONGITUDE" : 25.372944,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.393879, 54.770063], [25.369745, 54.745973], [25.368916, 54.745951], [25.354224, 54.759372], [25.384295, 54.778748], [25.393879, 54.770063]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 13,
+			"properties" : {
+				"STATION" : "VL177",
+				"LATITUDE" : 54.801039,
+				"LONGITUDE" : 25.373383,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.400526, 54.834414], [25.381064, 54.784736], [25.363491, 54.789454], [25.356521, 54.834414], [25.400526, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 14,
+			"properties" : {
+				"STATION" : "VL183",
+				"LATITUDE" : 54.722328,
+				"LONGITUDE" : 25.321078,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.321794, 54.732764], [25.328509, 54.720097], [25.32806, 54.715626], [25.321585, 54.71561], [25.3109, 54.724233], [25.310272, 54.728019], [25.321794, 54.732764]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 15,
+			"properties" : {
+				"STATION" : "VL197",
+				"LATITUDE" : 54.746653,
+				"LONGITUDE" : 25.339411,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.353931, 54.759501], [25.340564, 54.734639], [25.327393, 54.740538], [25.322467, 54.758504], [25.322972, 54.760877], [25.347491, 54.765714], [25.353931, 54.759501]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 16,
+			"properties" : {
+				"STATION" : "VL198",
+				"LATITUDE" : 54.700544,
+				"LONGITUDE" : 25.312481,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.310877, 54.708099], [25.317532, 54.699057], [25.309988, 54.694897], [25.307015, 54.696968], [25.305548, 54.701597], [25.309968, 54.708256], [25.310877, 54.708099]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 17,
+			"properties" : {
+				"STATION" : "VL199",
+				"LATITUDE" : 54.693992,
+				"LONGITUDE" : 25.316094,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.322621, 54.698308], [25.320615, 54.69229], [25.312065, 54.688444], [25.309988, 54.694897], [25.317532, 54.699057], [25.322621, 54.698308]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 18,
+			"properties" : {
+				"STATION" : "VL213",
+				"LATITUDE" : 54.739167,
+				"LONGITUDE" : 25.405639,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.456052, 54.745704], [25.435336, 54.73192], [25.391925, 54.727436], [25.390176, 54.732433], [25.409263, 54.766461], [25.420186, 54.768103], [25.456052, 54.745704]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 19,
+			"properties" : {
+				"STATION" : "VL256",
+				"LATITUDE" : 54.718333,
+				"LONGITUDE" : 25.359617,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.361102, 54.731489], [25.37542, 54.710473], [25.36926, 54.700804], [25.36623, 54.700951], [25.349789, 54.708707], [25.354365, 54.728915], [25.361102, 54.731489]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 20,
+			"properties" : {
+				"STATION" : "VL268",
+				"LATITUDE" : 54.714686,
+				"LONGITUDE" : 25.314911,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.321585, 54.71561], [25.315751, 54.709371], [25.310877, 54.708099], [25.309968, 54.708256], [25.308931, 54.710157], [25.309051, 54.718829], [25.3109, 54.724233], [25.321585, 54.71561]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 21,
+			"properties" : {
+				"STATION" : "VL307",
+				"LATITUDE" : 54.690600,
+				"LONGITUDE" : 25.305556,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Antakalnio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.309988, 54.694897], [25.312065, 54.688444], [25.311624, 54.686359], [25.310567, 54.685143], [25.299986, 54.691167], [25.307015, 54.696968], [25.309988, 54.694897]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 22,
+			"properties" : {
+				"STATION" : "VL127",
+				"LATITUDE" : 54.758611,
+				"LONGITUDE" : 25.217222,
+				"CELLS_NUMBER" : 18.000000,
+				"SENIUNIJA" : "Avižienių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.240053, 54.776249], [25.234756, 54.756489], [25.227554, 54.751936], [25.202849, 54.746393], [25.198491, 54.751612], [25.198343, 54.781854], [25.227593, 54.79072], [25.240053, 54.776249]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 23,
+			"properties" : {
+				"STATION" : "VL271",
+				"LATITUDE" : 54.809108,
+				"LONGITUDE" : 25.168336,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Avižienių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.182863, 54.834414], [25.186594, 54.786587], [25.095494, 54.766174], [25.087231, 54.767529], [25.051901, 54.788974], [25.051901, 54.834414], [25.182863, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 24,
+			"properties" : {
+				"STATION" : "VL519",
+				"LATITUDE" : 54.758428,
+				"LONGITUDE" : 25.179692,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Avižienių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.198343, 54.781854], [25.198491, 54.751612], [25.160026, 54.737877], [25.127234, 54.749861], [25.095494, 54.766174], [25.186594, 54.786587], [25.198343, 54.781854]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 25,
+			"properties" : {
+				"STATION" : "NULL1",
+				"LATITUDE" : 54.732469,
+				"LONGITUDE" : 25.236808,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.233406, 54.736159], [25.243629, 54.732176], [25.243173, 54.729987], [25.230886, 54.731094], [25.230847, 54.733227], [25.233406, 54.736159]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 26,
+			"properties" : {
+				"STATION" : "NULL2",
+				"LATITUDE" : 54.739739,
+				"LONGITUDE" : 25.229153,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.237761, 54.7498], [25.23455, 54.740409], [25.224654, 54.738508], [25.227554, 54.751936], [25.234756, 54.756489], [25.237761, 54.7498]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 27,
+			"properties" : {
+				"STATION" : "VL023",
+				"LATITUDE" : 54.720556,
+				"LONGITUDE" : 25.251667,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.255786, 54.720461], [25.25401, 54.716436], [25.251628, 54.715487], [25.247765, 54.718647], [25.246612, 54.721669], [25.246844, 54.724413], [25.247462, 54.724526], [25.255786, 54.720461]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 28,
+			"properties" : {
+				"STATION" : "VL046",
+				"LATITUDE" : 54.736575,
+				"LONGITUDE" : 25.238408,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.244669, 54.743099], [25.247363, 54.738493], [25.243629, 54.732176], [25.233406, 54.736159], [25.23455, 54.740409], [25.237761, 54.7498], [25.244669, 54.743099]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 29,
+			"properties" : {
+				"STATION" : "VL088",
+				"LATITUDE" : 54.729722,
+				"LONGITUDE" : 25.250000,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.255486, 54.734133], [25.256278, 54.72914], [25.247462, 54.724526], [25.246844, 54.724413], [25.243323, 54.728043], [25.243173, 54.729987], [25.243629, 54.732176], [25.247363, 54.738493], [25.254354, 54.736961], [25.255486, 54.734133]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 30,
+			"properties" : {
+				"STATION" : "VL179",
+				"LATITUDE" : 54.739031,
+				"LONGITUDE" : 25.229289,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.23455, 54.740409], [25.233406, 54.736159], [25.230847, 54.733227], [25.224331, 54.737427], [25.224654, 54.738508], [25.23455, 54.740409]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 31,
+			"properties" : {
+				"STATION" : "VL269",
+				"LATITUDE" : 54.723650,
+				"LONGITUDE" : 25.253178,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Fabijoniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.256278, 54.72914], [25.260405, 54.724546], [25.255786, 54.720461], [25.247462, 54.724526], [25.256278, 54.72914]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 32,
+			"properties" : {
+				"STATION" : "VL131",
+				"LATITUDE" : 54.676389,
+				"LONGITUDE" : 25.087778,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Grigiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.087231, 54.767529], [25.115427, 54.69873], [25.069719, 54.647944], [25.051901, 54.644129], [25.051901, 54.788974], [25.087231, 54.767529]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 33,
+			"properties" : {
+				"STATION" : "VL533",
+				"LATITUDE" : 54.584194,
+				"LONGITUDE" : 25.246453,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Juodšilių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.255528, 54.597058], [25.27278, 54.561447], [25.18898, 54.561447], [25.200153, 54.593508], [25.201978, 54.595549], [25.205224, 54.597908], [25.248033, 54.60238], [25.255528, 54.597058]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 34,
+			"properties" : {
+				"STATION" : "VL085",
+				"LATITUDE" : 54.718694,
+				"LONGITUDE" : 25.223331,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Justiniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.229355, 54.721001], [25.22506, 54.712888], [25.224593, 54.712663], [25.22058, 54.71414], [25.219618, 54.722526], [25.227506, 54.724935], [25.229355, 54.721001]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 35,
+			"properties" : {
+				"STATION" : "VL122",
+				"LATITUDE" : 54.717953,
+				"LONGITUDE" : 25.216869,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Justiniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.219618, 54.722526], [25.22058, 54.71414], [25.211327, 54.711227], [25.205437, 54.713522], [25.205825, 54.727702], [25.219618, 54.722526]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 36,
+			"properties" : {
+				"STATION" : "VL167",
+				"LATITUDE" : 54.690372,
+				"LONGITUDE" : 25.209572,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Karoliniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.214579, 54.693903], [25.215434, 54.688547], [25.210216, 54.685121], [25.204963, 54.685467], [25.201494, 54.696287], [25.214579, 54.693903]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 37,
+			"properties" : {
+				"STATION" : "VL219",
+				"LATITUDE" : 54.692108,
+				"LONGITUDE" : 25.220436,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Karoliniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.232256, 54.694698], [25.22828, 54.688056], [25.22141, 54.685049], [25.215434, 54.688547], [25.214579, 54.693903], [25.21701, 54.697196], [25.232256, 54.694698]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 38,
+			"properties" : {
+				"STATION" : "VL259",
+				"LATITUDE" : 54.698972,
+				"LONGITUDE" : 25.211139,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Karoliniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.216288, 54.701167], [25.21701, 54.697196], [25.214579, 54.693903], [25.201494, 54.696287], [25.198202, 54.699736], [25.216288, 54.701167]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 39,
+			"properties" : {
+				"STATION" : "VL262",
+				"LATITUDE" : 54.686778,
+				"LONGITUDE" : 25.198361,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Karoliniškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.201494, 54.696287], [25.204963, 54.685467], [25.201621, 54.680276], [25.197935, 54.679164], [25.183268, 54.691247], [25.183417, 54.691504], [25.197668, 54.700161], [25.198202, 54.699736], [25.201494, 54.696287]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 40,
+			"properties" : {
+				"STATION" : "VL009",
+				"LATITUDE" : 54.680000,
+				"LONGITUDE" : 25.208889,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.210216, 54.685121], [25.214155, 54.675622], [25.209399, 54.67312], [25.201621, 54.680276], [25.204963, 54.685467], [25.210216, 54.685121]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 41,
+			"properties" : {
+				"STATION" : "VL025",
+				"LATITUDE" : 54.679544,
+				"LONGITUDE" : 25.225936,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.22828, 54.688056], [25.232851, 54.675535], [25.226999, 54.667277], [25.218962, 54.675623], [25.22141, 54.685049], [25.22828, 54.688056]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 42,
+			"properties" : {
+				"STATION" : "VL118",
+				"LATITUDE" : 54.673056,
+				"LONGITUDE" : 25.202500,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.209399, 54.67312], [25.204176, 54.658039], [25.192312, 54.663281], [25.197935, 54.679164], [25.201621, 54.680276], [25.209399, 54.67312]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 43,
+			"properties" : {
+				"STATION" : "VL148",
+				"LATITUDE" : 54.668803,
+				"LONGITUDE" : 25.214781,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.226999, 54.667277], [25.227169, 54.664607], [25.20786, 54.655795], [25.205322, 54.656707], [25.204176, 54.658039], [25.209399, 54.67312], [25.214155, 54.675622], [25.218962, 54.675623], [25.226999, 54.667277]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 44,
+			"properties" : {
+				"STATION" : "VL231",
+				"LATITUDE" : 54.677289,
+				"LONGITUDE" : 25.190544,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.197935, 54.679164], [25.192312, 54.663281], [25.179105, 54.662624], [25.171285, 54.68224], [25.183268, 54.691247], [25.197935, 54.679164]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 45,
+			"properties" : {
+				"STATION" : "VL255",
+				"LATITUDE" : 54.682442,
+				"LONGITUDE" : 25.214778,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Lazdynų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.22141, 54.685049], [25.218962, 54.675623], [25.214155, 54.675622], [25.210216, 54.685121], [25.215434, 54.688547], [25.22141, 54.685049]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 46,
+			"properties" : {
+				"STATION" : "VL538",
+				"LATITUDE" : 54.811667,
+				"LONGITUDE" : 25.201139,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Maišiagalos sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.238898, 54.834414], [25.227593, 54.79072], [25.198343, 54.781854], [25.186594, 54.786587], [25.182863, 54.834414], [25.238898, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 47,
+			"properties" : {
+				"STATION" : "NULL3",
+				"LATITUDE" : 54.667242,
+				"LONGITUDE" : 25.255686,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.262798, 54.663511], [25.260493, 54.656869], [25.255581, 54.655275], [25.253178, 54.660774], [25.256362, 54.66941], [25.26186, 54.668882], [25.26191, 54.668805], [25.262798, 54.663511]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 48,
+			"properties" : {
+				"STATION" : "VL013",
+				"LATITUDE" : 54.680469,
+				"LONGITUDE" : 25.273244,
+				"CELLS_NUMBER" : 21.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.274898, 54.683761], [25.276506, 54.680775], [25.271271, 54.675229], [25.269741, 54.676949], [25.268922, 54.680584], [25.271347, 54.683881], [25.27295, 54.684349], [25.274898, 54.683761]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 49,
+			"properties" : {
+				"STATION" : "VL014",
+				"LATITUDE" : 54.671944,
+				"LONGITUDE" : 25.284722,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.285619, 54.674748], [25.289887, 54.669769], [25.282374, 54.663972], [25.279889, 54.667907], [25.280667, 54.671404], [25.285046, 54.674949], [25.285619, 54.674748]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 50,
+			"properties" : {
+				"STATION" : "VL016",
+				"LATITUDE" : 54.687417,
+				"LONGITUDE" : 25.275344,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.277874, 54.690621], [25.276726, 54.685198], [25.274898, 54.683761], [25.27295, 54.684349], [25.273504, 54.690834], [25.277874, 54.690621]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 51,
+			"properties" : {
+				"STATION" : "VL019",
+				"LATITUDE" : 54.691389,
+				"LONGITUDE" : 25.263611,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.265793, 54.691639], [25.26719, 54.689228], [25.267022, 54.68888], [25.263943, 54.687085], [25.258805, 54.690882], [25.261443, 54.693335], [25.265793, 54.691639]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 52,
+			"properties" : {
+				"STATION" : "VL075",
+				"LATITUDE" : 54.678439,
+				"LONGITUDE" : 25.255636,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.260368, 54.677717], [25.260414, 54.675438], [25.260383, 54.675369], [25.254334, 54.674945], [25.250014, 54.676028], [25.255104, 54.682474], [25.257224, 54.681526], [25.260368, 54.677717]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 53,
+			"properties" : {
+				"STATION" : "VL083",
+				"LATITUDE" : 54.682500,
+				"LONGITUDE" : 25.260556,
+				"CELLS_NUMBER" : 10.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.26357, 54.685096], [25.264405, 54.68242], [25.260368, 54.677717], [25.257224, 54.681526], [25.259865, 54.683959], [25.260888, 54.68442], [25.261756, 54.684685], [25.26357, 54.685096]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 54,
+			"properties" : {
+				"STATION" : "VL108",
+				"LATITUDE" : 54.685825,
+				"LONGITUDE" : 25.259539,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.257239, 54.687447], [25.261756, 54.684685], [25.260888, 54.68442], [25.257216, 54.687388], [25.257239, 54.687447]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 55,
+			"properties" : {
+				"STATION" : "VL111",
+				"LATITUDE" : 54.682056,
+				"LONGITUDE" : 25.251056,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.255104, 54.682474], [25.250014, 54.676028], [25.24612, 54.675028], [25.243027, 54.67823], [25.243657, 54.68799], [25.246124, 54.68884], [25.254615, 54.683813], [25.255104, 54.682474]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 56,
+			"properties" : {
+				"STATION" : "VL120",
+				"LATITUDE" : 54.673611,
+				"LONGITUDE" : 25.277222,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.279081, 54.676043], [25.280667, 54.671404], [25.279889, 54.667907], [25.27332, 54.670315], [25.271536, 54.674056], [25.271545, 54.674429], [25.279081, 54.676043]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 57,
+			"properties" : {
+				"STATION" : "VL145",
+				"LATITUDE" : 54.668889,
+				"LONGITUDE" : 25.096111,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.125092, 54.68287], [25.10289, 54.649398], [25.069719, 54.647944], [25.115427, 54.69873], [25.125092, 54.68287]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 58,
+			"properties" : {
+				"STATION" : "VL165",
+				"LATITUDE" : 54.669358,
+				"LONGITUDE" : 25.268303,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.27332, 54.670315], [25.270286, 54.665954], [25.262798, 54.663511], [25.26191, 54.668805], [25.271536, 54.674056], [25.27332, 54.670315]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 59,
+			"properties" : {
+				"STATION" : "VL171",
+				"LATITUDE" : 54.673881,
+				"LONGITUDE" : 25.265836,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.271536, 54.674056], [25.26191, 54.668805], [25.26186, 54.668882], [25.260383, 54.675369], [25.260414, 54.675438], [25.269741, 54.676949], [25.271271, 54.675229], [25.271545, 54.674429], [25.271536, 54.674056]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 60,
+			"properties" : {
+				"STATION" : "VL174",
+				"LATITUDE" : 54.693300,
+				"LONGITUDE" : 25.264356,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.265647, 54.695325], [25.265793, 54.691639], [25.261443, 54.693335], [25.262986, 54.696433], [25.263388, 54.696568], [25.265647, 54.695325]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 61,
+			"properties" : {
+				"STATION" : "VL192",
+				"LATITUDE" : 54.684675,
+				"LONGITUDE" : 25.267525,
+				"CELLS_NUMBER" : 7.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.267022, 54.68888], [25.271347, 54.683881], [25.268922, 54.680584], [25.264405, 54.68242], [25.26357, 54.685096], [25.263943, 54.687085], [25.267022, 54.68888]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 62,
+			"properties" : {
+				"STATION" : "VL194",
+				"LATITUDE" : 54.684767,
+				"LONGITUDE" : 25.258467,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.259865, 54.683959], [25.257224, 54.681526], [25.255104, 54.682474], [25.254615, 54.683813], [25.257078, 54.687104], [25.259865, 54.683959]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 63,
+			"properties" : {
+				"STATION" : "VL208",
+				"LATITUDE" : 54.685444,
+				"LONGITUDE" : 25.259231,
+				"CELLS_NUMBER" : 4.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.257216, 54.687388], [25.260888, 54.68442], [25.259865, 54.683959], [25.257078, 54.687104], [25.257216, 54.687388]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 64,
+			"properties" : {
+				"STATION" : "VL223",
+				"LATITUDE" : 54.686139,
+				"LONGITUDE" : 25.259731,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.258805, 54.690882], [25.263943, 54.687085], [25.26357, 54.685096], [25.261756, 54.684685], [25.257239, 54.687447], [25.258303, 54.690879], [25.258805, 54.690882]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 65,
+			"properties" : {
+				"STATION" : "VL243",
+				"LATITUDE" : 54.693408,
+				"LONGITUDE" : 25.267094,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.270604, 54.694776], [25.271479, 54.692428], [25.271489, 54.692296], [25.26719, 54.689228], [25.265793, 54.691639], [25.265647, 54.695325], [25.269012, 54.695676], [25.270604, 54.694776]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 66,
+			"properties" : {
+				"STATION" : "VL264",
+				"LATITUDE" : 54.667322,
+				"LONGITUDE" : 25.255469,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.256362, 54.66941], [25.253178, 54.660774], [25.250146, 54.66741], [25.255319, 54.669564], [25.256362, 54.66941]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 67,
+			"properties" : {
+				"STATION" : "VL275",
+				"LATITUDE" : 54.687778,
+				"LONGITUDE" : 25.271111,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.273504, 54.690834], [25.27295, 54.684349], [25.271347, 54.683881], [25.267022, 54.68888], [25.26719, 54.689228], [25.271489, 54.692296], [25.273504, 54.690834]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 68,
+			"properties" : {
+				"STATION" : "VL299",
+				"LATITUDE" : 54.678628,
+				"LONGITUDE" : 25.265067,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujamiesčio sen",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.268922, 54.680584], [25.269741, 54.676949], [25.260414, 54.675438], [25.260368, 54.677717], [25.264405, 54.68242], [25.268922, 54.680584]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 69,
+			"properties" : {
+				"STATION" : "VL002",
+				"LATITUDE" : 54.641389,
+				"LONGITUDE" : 25.271944,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.274792, 54.647503], [25.275951, 54.633573], [25.265686, 54.639974], [25.27021, 54.649796], [25.274061, 54.648032], [25.274792, 54.647503]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 70,
+			"properties" : {
+				"STATION" : "VL024",
+				"LATITUDE" : 54.665278,
+				"LONGITUDE" : 25.274167,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.279889, 54.667907], [25.282374, 54.663972], [25.282222, 54.661595], [25.276133, 54.659688], [25.270286, 54.665954], [25.27332, 54.670315], [25.279889, 54.667907]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 71,
+			"properties" : {
+				"STATION" : "VL027",
+				"LATITUDE" : 54.641944,
+				"LONGITUDE" : 25.278611,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.275349, 54.647443], [25.301482, 54.6148], [25.294712, 54.61589], [25.285897, 54.619717], [25.275951, 54.633573], [25.274792, 54.647503], [25.275349, 54.647443]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 72,
+			"properties" : {
+				"STATION" : "VL042",
+				"LATITUDE" : 54.619847,
+				"LONGITUDE" : 25.242728,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.239437, 54.638406], [25.256534, 54.621076], [25.248033, 54.60238], [25.205224, 54.597908], [25.223946, 54.630818], [25.235245, 54.637913], [25.239437, 54.638406]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 73,
+			"properties" : {
+				"STATION" : "VL079",
+				"LATITUDE" : 54.662036,
+				"LONGITUDE" : 25.270692,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.270286, 54.665954], [25.276133, 54.659688], [25.268439, 54.652991], [25.260493, 54.656869], [25.262798, 54.663511], [25.270286, 54.665954]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 74,
+			"properties" : {
+				"STATION" : "VL137",
+				"LATITUDE" : 54.664222,
+				"LONGITUDE" : 25.290681,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.290367, 54.669863], [25.296708, 54.662122], [25.296603, 54.661223], [25.287312, 54.656253], [25.284256, 54.659021], [25.282222, 54.661595], [25.282374, 54.663972], [25.289887, 54.669769], [25.290367, 54.669863]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 75,
+			"properties" : {
+				"STATION" : "VL168",
+				"LATITUDE" : 54.609864,
+				"LONGITUDE" : 25.264683,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.294712, 54.61589], [25.255528, 54.597058], [25.248033, 54.60238], [25.256534, 54.621076], [25.261085, 54.622302], [25.285897, 54.619717], [25.294712, 54.61589]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 76,
+			"properties" : {
+				"STATION" : "VL184",
+				"LATITUDE" : 54.596206,
+				"LONGITUDE" : 25.271247,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.301916, 54.614692], [25.298514, 54.561447], [25.27278, 54.561447], [25.255528, 54.597058], [25.294712, 54.61589], [25.301482, 54.6148], [25.301846, 54.614732], [25.301916, 54.614692]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 77,
+			"properties" : {
+				"STATION" : "VL215",
+				"LATITUDE" : 54.634864,
+				"LONGITUDE" : 25.257950,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.26314, 54.639018], [25.261085, 54.622302], [25.256534, 54.621076], [25.239437, 54.638406], [25.247816, 54.645757], [25.26314, 54.639018]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 78,
+			"properties" : {
+				"STATION" : "VL216",
+				"LATITUDE" : 54.633731,
+				"LONGITUDE" : 25.267169,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.275951, 54.633573], [25.285897, 54.619717], [25.261085, 54.622302], [25.26314, 54.639018], [25.265686, 54.639974], [25.275951, 54.633573]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 79,
+			"properties" : {
+				"STATION" : "VL217",
+				"LATITUDE" : 54.652114,
+				"LONGITUDE" : 25.279714,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.287312, 54.656253], [25.288625, 54.647862], [25.275349, 54.647443], [25.274792, 54.647503], [25.274061, 54.648032], [25.284256, 54.659021], [25.287312, 54.656253]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 80,
+			"properties" : {
+				"STATION" : "VL263",
+				"LATITUDE" : 54.643056,
+				"LONGITUDE" : 25.280000,
+				"CELLS_NUMBER" : 8.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.292527, 54.642533], [25.301846, 54.614732], [25.301482, 54.6148], [25.275349, 54.647443], [25.288625, 54.647862], [25.292527, 54.642533]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 81,
+			"properties" : {
+				"STATION" : "VL273",
+				"LATITUDE" : 54.645650,
+				"LONGITUDE" : 25.262694,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.27021, 54.649796], [25.265686, 54.639974], [25.26314, 54.639018], [25.247816, 54.645757], [25.2499, 54.650143], [25.255581, 54.655275], [25.260493, 54.656869], [25.268439, 54.652991], [25.27021, 54.649796]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 82,
+			"properties" : {
+				"STATION" : "VL292",
+				"LATITUDE" : 54.654633,
+				"LONGITUDE" : 25.295811,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.301683, 54.656705], [25.292527, 54.642533], [25.288625, 54.647862], [25.287312, 54.656253], [25.296603, 54.661223], [25.301683, 54.656705]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 83,
+			"properties" : {
+				"STATION" : "VL297",
+				"LATITUDE" : 54.650500,
+				"LONGITUDE" : 25.302208,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.316976, 54.652078], [25.309005, 54.618084], [25.301916, 54.614692], [25.301846, 54.614732], [25.292527, 54.642533], [25.301683, 54.656705], [25.308344, 54.656245], [25.316976, 54.652078]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 84,
+			"properties" : {
+				"STATION" : "VL298",
+				"LATITUDE" : 54.653975,
+				"LONGITUDE" : 25.277708,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujininkų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.284256, 54.659021], [25.274061, 54.648032], [25.27021, 54.649796], [25.268439, 54.652991], [25.276133, 54.659688], [25.282222, 54.661595], [25.284256, 54.659021]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 85,
+			"properties" : {
+				"STATION" : "VL001",
+				"LATITUDE" : 54.690278,
+				"LONGITUDE" : 25.425000,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.413634, 54.702857], [25.482427, 54.669512], [25.482427, 54.666998], [25.406262, 54.69157], [25.408338, 54.699649], [25.413634, 54.702857]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 86,
+			"properties" : {
+				"STATION" : "VL018",
+				"LATITUDE" : 54.695000,
+				"LONGITUDE" : 25.348611,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.36623, 54.700951], [25.342559, 54.680278], [25.339297, 54.679364], [25.335241, 54.702697], [25.336415, 54.705022], [25.341914, 54.707658], [25.349789, 54.708707], [25.36623, 54.700951]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 87,
+			"properties" : {
+				"STATION" : "VL035",
+				"LATITUDE" : 54.681667,
+				"LONGITUDE" : 25.422222,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.406262, 54.69157], [25.482427, 54.666998], [25.482427, 54.664348], [25.430908, 54.646097], [25.405609, 54.690359], [25.406262, 54.69157]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 88,
+			"properties" : {
+				"STATION" : "VL097",
+				"LATITUDE" : 54.670850,
+				"LONGITUDE" : 25.355383,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.377159, 54.673643], [25.346405, 54.654072], [25.345934, 54.654098], [25.333484, 54.666143], [25.33541, 54.673534], [25.339297, 54.679364], [25.342559, 54.680278], [25.377159, 54.673643]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 89,
+			"properties" : {
+				"STATION" : "VL139",
+				"LATITUDE" : 54.699472,
+				"LONGITUDE" : 25.389222,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.408338, 54.699649], [25.406262, 54.69157], [25.405609, 54.690359], [25.380969, 54.676689], [25.36926, 54.700804], [25.37542, 54.710473], [25.389312, 54.717925], [25.408338, 54.699649]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 90,
+			"properties" : {
+				"STATION" : "VL140",
+				"LATITUDE" : 54.671633,
+				"LONGITUDE" : 25.404667,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.405609, 54.690359], [25.430908, 54.646097], [25.415841, 54.635336], [25.394968, 54.639781], [25.380365, 54.674461], [25.380969, 54.676689], [25.405609, 54.690359]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 91,
+			"properties" : {
+				"STATION" : "VL160",
+				"LATITUDE" : 54.701728,
+				"LONGITUDE" : 25.430550,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.482427, 54.743055], [25.482427, 54.669512], [25.413634, 54.702857], [25.435336, 54.73192], [25.456052, 54.745704], [25.482427, 54.743055]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 92,
+			"properties" : {
+				"STATION" : "VL232",
+				"LATITUDE" : 54.655100,
+				"LONGITUDE" : 25.365406,
+				"CELLS_NUMBER" : 21.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.380365, 54.674461], [25.394968, 54.639781], [25.380763, 54.632308], [25.380602, 54.632324], [25.346405, 54.654072], [25.377159, 54.673643], [25.380365, 54.674461]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 93,
+			"properties" : {
+				"STATION" : "VL278",
+				"LATITUDE" : 54.684294,
+				"LONGITUDE" : 25.357961,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Naujosios Vilnios sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.36926, 54.700804], [25.380969, 54.676689], [25.380365, 54.674461], [25.377159, 54.673643], [25.342559, 54.680278], [25.36623, 54.700951], [25.36926, 54.700804]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 94,
+			"properties" : {
+				"STATION" : "VL170",
+				"LATITUDE" : 54.636428,
+				"LONGITUDE" : 25.353531,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Nemėžio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.346405, 54.654072], [25.380602, 54.632324], [25.336057, 54.617493], [25.334511, 54.618321], [25.345934, 54.654098], [25.346405, 54.654072]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 95,
+			"properties" : {
+				"STATION" : "VL503",
+				"LATITUDE" : 54.612811,
+				"LONGITUDE" : 25.361394,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Nemėžio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.380763, 54.632308], [25.367662, 54.568728], [25.336057, 54.617493], [25.380602, 54.632324], [25.380763, 54.632308]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 96,
+			"properties" : {
+				"STATION" : "VL532",
+				"LATITUDE" : 54.606742,
+				"LONGITUDE" : 25.390847,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Nemėžio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.415841, 54.635336], [25.424131, 54.561447], [25.369372, 54.561447], [25.367662, 54.568728], [25.380763, 54.632308], [25.394968, 54.639781], [25.415841, 54.635336]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 97,
+			"properties" : {
+				"STATION" : "VL558",
+				"LATITUDE" : 54.644100,
+				"LONGITUDE" : 25.329503,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Nemėžio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.345934, 54.654098], [25.334511, 54.618321], [25.309005, 54.618084], [25.316976, 54.652078], [25.329778, 54.664852], [25.333484, 54.666143], [25.345934, 54.654098]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 98,
+			"properties" : {
+				"STATION" : "VL040",
+				"LATITUDE" : 54.655981,
+				"LONGITUDE" : 25.154186,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.171879, 54.650686], [25.165026, 54.638327], [25.16053, 54.639196], [25.160237, 54.639367], [25.150476, 54.656492], [25.159401, 54.659337], [25.171879, 54.650686]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 99,
+			"properties" : {
+				"STATION" : "VL048",
+				"LATITUDE" : 54.625983,
+				"LONGITUDE" : 25.148389,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.166949, 54.63258], [25.120695, 54.591769], [25.122532, 54.619026], [25.16053, 54.639196], [25.165026, 54.638327], [25.166949, 54.63258]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 100,
+			"properties" : {
+				"STATION" : "VL058",
+				"LATITUDE" : 54.650733,
+				"LONGITUDE" : 25.123483,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.134858, 54.667344], [25.136576, 54.648321], [25.121198, 54.627404], [25.10289, 54.649398], [25.125092, 54.68287], [25.131456, 54.679494], [25.134858, 54.667344]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 101,
+			"properties" : {
+				"STATION" : "VL096",
+				"LATITUDE" : 54.614986,
+				"LONGITUDE" : 25.158092,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.200153, 54.593508], [25.18898, 54.561447], [25.113447, 54.561447], [25.120695, 54.591769], [25.166949, 54.63258], [25.200153, 54.593508]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 102,
+			"properties" : {
+				"STATION" : "VL103",
+				"LATITUDE" : 54.653039,
+				"LONGITUDE" : 25.149025,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.150476, 54.656492], [25.160237, 54.639367], [25.136576, 54.648321], [25.134858, 54.667344], [25.150476, 54.656492]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 103,
+			"properties" : {
+				"STATION" : "VL121",
+				"LATITUDE" : 54.638483,
+				"LONGITUDE" : 25.185742,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.195308, 54.640072], [25.201978, 54.595549], [25.200153, 54.593508], [25.166949, 54.63258], [25.165026, 54.638327], [25.171879, 54.650686], [25.173857, 54.652525], [25.195308, 54.640072]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 104,
+			"properties" : {
+				"STATION" : "VL191",
+				"LATITUDE" : 54.636544,
+				"LONGITUDE" : 25.142783,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.16053, 54.639196], [25.122532, 54.619026], [25.121198, 54.627404], [25.136576, 54.648321], [25.160237, 54.639367], [25.16053, 54.639196]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 105,
+			"properties" : {
+				"STATION" : "VL227",
+				"LATITUDE" : 54.659056,
+				"LONGITUDE" : 25.153206,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.141886, 54.680074], [25.159401, 54.659337], [25.150476, 54.656492], [25.134858, 54.667344], [25.131456, 54.679494], [25.141886, 54.680074]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 106,
+			"properties" : {
+				"STATION" : "VL230",
+				"LATITUDE" : 54.665397,
+				"LONGITUDE" : 25.160714,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.171285, 54.68224], [25.179105, 54.662624], [25.173857, 54.652525], [25.171879, 54.650686], [25.159401, 54.659337], [25.141886, 54.680074], [25.161261, 54.685289], [25.171285, 54.68224]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 107,
+			"properties" : {
+				"STATION" : "VL274",
+				"LATITUDE" : 54.629389,
+				"LONGITUDE" : 25.097842,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Panerių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.122532, 54.619026], [25.120695, 54.591769], [25.113447, 54.561447], [25.051901, 54.561447], [25.051901, 54.644129], [25.069719, 54.647944], [25.10289, 54.649398], [25.121198, 54.627404], [25.122532, 54.619026]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 108,
+			"properties" : {
+				"STATION" : "VL011",
+				"LATITUDE" : 54.727778,
+				"LONGITUDE" : 25.220556,
+				"CELLS_NUMBER" : 18.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.21789, 54.73474], [25.227592, 54.725279], [25.227506, 54.724935], [25.219618, 54.722526], [25.205825, 54.727702], [25.204492, 54.731509], [25.205254, 54.735208], [25.21789, 54.73474]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 109,
+			"properties" : {
+				"STATION" : "VL050",
+				"LATITUDE" : 54.728683,
+				"LONGITUDE" : 25.236467,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.243173, 54.729987], [25.243323, 54.728043], [25.239256, 54.725258], [25.230026, 54.728309], [25.230886, 54.731094], [25.243173, 54.729987]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 110,
+			"properties" : {
+				"STATION" : "VL074",
+				"LATITUDE" : 54.724169,
+				"LONGITUDE" : 25.234975,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.239256, 54.725258], [25.236175, 54.718011], [25.229355, 54.721001], [25.227506, 54.724935], [25.227592, 54.725279], [25.230026, 54.728309], [25.239256, 54.725258]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 111,
+			"properties" : {
+				"STATION" : "VL082",
+				"LATITUDE" : 54.721419,
+				"LONGITUDE" : 25.241442,
+				"CELLS_NUMBER" : 13.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.246844, 54.724413], [25.246612, 54.721669], [25.237117, 54.716519], [25.236175, 54.718011], [25.239256, 54.725258], [25.243323, 54.728043], [25.246844, 54.724413]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 112,
+			"properties" : {
+				"STATION" : "VL109",
+				"LATITUDE" : 54.732250,
+				"LONGITUDE" : 25.224917,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.230847, 54.733227], [25.230886, 54.731094], [25.230026, 54.728309], [25.227592, 54.725279], [25.21789, 54.73474], [25.224331, 54.737427], [25.230847, 54.733227]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 113,
+			"properties" : {
+				"STATION" : "VL252",
+				"LATITUDE" : 54.741486,
+				"LONGITUDE" : 25.221064,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Pašilaičių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.227554, 54.751936], [25.224654, 54.738508], [25.224331, 54.737427], [25.21789, 54.73474], [25.205254, 54.735208], [25.202849, 54.746393], [25.227554, 54.751936]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 114,
+			"properties" : {
+				"STATION" : "VL010",
+				"LATITUDE" : 54.706944,
+				"LONGITUDE" : 25.186111,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Pilaitės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.198835, 54.706695], [25.197668, 54.700161], [25.183417, 54.691504], [25.181294, 54.697761], [25.181276, 54.719006], [25.198835, 54.706695]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 115,
+			"properties" : {
+				"STATION" : "VL070",
+				"LATITUDE" : 54.702117,
+				"LONGITUDE" : 25.171883,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Pilaitės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.181294, 54.697761], [25.183417, 54.691504], [25.183268, 54.691247], [25.171285, 54.68224], [25.161261, 54.685289], [25.161324, 54.698257], [25.169299, 54.709156], [25.181294, 54.697761]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 116,
+			"properties" : {
+				"STATION" : "VL152",
+				"LATITUDE" : 54.706936,
+				"LONGITUDE" : 25.176461,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Pilaitės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.181276, 54.719006], [25.181294, 54.697761], [25.169299, 54.709156], [25.172076, 54.725097], [25.179329, 54.721985], [25.181276, 54.719006]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 117,
+			"properties" : {
+				"STATION" : "VL153",
+				"LATITUDE" : 54.702219,
+				"LONGITUDE" : 25.150803,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Pilaitės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.127234, 54.749861], [25.161324, 54.698257], [25.161261, 54.685289], [25.141886, 54.680074], [25.131456, 54.679494], [25.125092, 54.68287], [25.115427, 54.69873], [25.087231, 54.767529], [25.095494, 54.766174], [25.127234, 54.749861]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 118,
+			"properties" : {
+				"STATION" : "VL201",
+				"LATITUDE" : 54.709489,
+				"LONGITUDE" : 25.161808,
+				"CELLS_NUMBER" : 4.000000,
+				"SENIUNIJA" : "Pilaitės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.172076, 54.725097], [25.169299, 54.709156], [25.161324, 54.698257], [25.127234, 54.749861], [25.160026, 54.737877], [25.172076, 54.725097]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 119,
+			"properties" : {
+				"STATION" : "VL033",
+				"LATITUDE" : 54.676603,
+				"LONGITUDE" : 25.311664,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.30993, 54.683659], [25.323812, 54.667646], [25.306253, 54.671514], [25.308747, 54.682677], [25.30993, 54.683659]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 120,
+			"properties" : {
+				"STATION" : "VL059",
+				"LATITUDE" : 54.662778,
+				"LONGITUDE" : 25.303056,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.304155, 54.669802], [25.308344, 54.656245], [25.301683, 54.656705], [25.296603, 54.661223], [25.296708, 54.662122], [25.301513, 54.668245], [25.304155, 54.669802]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 121,
+			"properties" : {
+				"STATION" : "VL064",
+				"LATITUDE" : 54.687778,
+				"LONGITUDE" : 25.318889,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.320615, 54.69229], [25.325857, 54.681737], [25.311624, 54.686359], [25.312065, 54.688444], [25.320615, 54.69229]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 122,
+			"properties" : {
+				"STATION" : "VL094",
+				"LATITUDE" : 54.672244,
+				"LONGITUDE" : 25.297478,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.299489, 54.676322], [25.304939, 54.67099], [25.304155, 54.669802], [25.301513, 54.668245], [25.292481, 54.672148], [25.293543, 54.675357], [25.294535, 54.676389], [25.299489, 54.676322]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 123,
+			"properties" : {
+				"STATION" : "VL188",
+				"LATITUDE" : 54.664622,
+				"LONGITUDE" : 25.309025,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.329778, 54.664852], [25.316976, 54.652078], [25.308344, 54.656245], [25.304155, 54.669802], [25.304939, 54.67099], [25.306253, 54.671514], [25.323812, 54.667646], [25.329778, 54.664852]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 124,
+			"properties" : {
+				"STATION" : "VL247",
+				"LATITUDE" : 54.668444,
+				"LONGITUDE" : 25.295836,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.301513, 54.668245], [25.296708, 54.662122], [25.290367, 54.669863], [25.292481, 54.672148], [25.301513, 54.668245]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 125,
+			"properties" : {
+				"STATION" : "VL260",
+				"LATITUDE" : 54.690939,
+				"LONGITUDE" : 25.325253,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.335241, 54.702697], [25.339297, 54.679364], [25.33541, 54.673534], [25.325857, 54.681737], [25.320615, 54.69229], [25.322621, 54.698308], [25.326962, 54.700786], [25.335241, 54.702697]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 126,
+			"properties" : {
+				"STATION" : "VL301",
+				"LATITUDE" : 54.680942,
+				"LONGITUDE" : 25.316669,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Rasų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.325857, 54.681737], [25.33541, 54.673534], [25.333484, 54.666143], [25.329778, 54.664852], [25.323812, 54.667646], [25.30993, 54.683659], [25.310567, 54.685143], [25.311624, 54.686359], [25.325857, 54.681737]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 127,
+			"properties" : {
+				"STATION" : "VL512",
+				"LATITUDE" : 54.796208,
+				"LONGITUDE" : 25.260886,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Riešės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.272335, 54.834414], [25.279615, 54.797321], [25.279877, 54.795834], [25.2581, 54.776778], [25.247074, 54.774761], [25.240053, 54.776249], [25.227593, 54.79072], [25.238898, 54.834414], [25.272335, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 128,
+			"properties" : {
+				"STATION" : "VL520",
+				"LATITUDE" : 54.776961,
+				"LONGITUDE" : 25.277728,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Riešės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.301904, 54.778821], [25.298811, 54.775444], [25.275105, 54.766846], [25.2581, 54.776778], [25.279877, 54.795834], [25.301904, 54.778821]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 129,
+			"properties" : {
+				"STATION" : "VL560",
+				"LATITUDE" : 54.803369,
+				"LONGITUDE" : 25.297375,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Riešės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.327715, 54.834414], [25.325229, 54.811883], [25.279615, 54.797321], [25.272335, 54.834414], [25.327715, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 130,
+			"properties" : {
+				"STATION" : "VL530",
+				"LATITUDE" : 54.592453,
+				"LONGITUDE" : 25.329983,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Rudaminos sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.336057, 54.617493], [25.367662, 54.568728], [25.369372, 54.561447], [25.298514, 54.561447], [25.301916, 54.614692], [25.309005, 54.618084], [25.334511, 54.618321], [25.336057, 54.617493]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 131,
+			"properties" : {
+				"STATION" : "VL522",
+				"LATITUDE" : 54.612992,
+				"LONGITUDE" : 25.446550,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Rukainių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.482427, 54.664348], [25.482427, 54.561447], [25.424131, 54.561447], [25.415841, 54.635336], [25.430908, 54.646097], [25.482427, 54.664348]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 132,
+			"properties" : {
+				"STATION" : "MOB03",
+				"LATITUDE" : 54.678422,
+				"LONGITUDE" : 25.303522,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.308747, 54.682677], [25.306253, 54.671514], [25.304939, 54.67099], [25.299489, 54.676322], [25.301604, 54.682499], [25.308747, 54.682677]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 133,
+			"properties" : {
+				"STATION" : "VL005",
+				"LATITUDE" : 54.679167,
+				"LONGITUDE" : 25.290278,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.293641, 54.681471], [25.294535, 54.676389], [25.293543, 54.675357], [25.288899, 54.677409], [25.287496, 54.680449], [25.287873, 54.681495], [25.293641, 54.681471]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 134,
+			"properties" : {
+				"STATION" : "VL044",
+				"LATITUDE" : 54.677500,
+				"LONGITUDE" : 25.286667,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.288899, 54.677409], [25.285619, 54.674748], [25.285046, 54.674949], [25.283488, 54.678165], [25.287496, 54.680449], [25.288899, 54.677409]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 135,
+			"properties" : {
+				"STATION" : "VL072",
+				"LATITUDE" : 54.683803,
+				"LONGITUDE" : 25.290297,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.296342, 54.68735], [25.293641, 54.681471], [25.287873, 54.681495], [25.28746, 54.682424], [25.288132, 54.685424], [25.292112, 54.689046], [25.296005, 54.688882], [25.296342, 54.68735]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 136,
+			"properties" : {
+				"STATION" : "VL093",
+				"LATITUDE" : 54.677500,
+				"LONGITUDE" : 25.276389,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.280386, 54.679333], [25.279081, 54.676043], [25.271545, 54.674429], [25.271271, 54.675229], [25.276506, 54.680775], [25.280386, 54.679333]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 137,
+			"properties" : {
+				"STATION" : "VL114",
+				"LATITUDE" : 54.686822,
+				"LONGITUDE" : 25.279703,
+				"CELLS_NUMBER" : 21.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.283032, 54.688671], [25.283173, 54.687581], [25.282015, 54.684129], [25.279646, 54.684907], [25.278505, 54.690897], [25.278978, 54.69116], [25.279603, 54.691219], [25.283032, 54.688671]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 138,
+			"properties" : {
+				"STATION" : "VL116",
+				"LATITUDE" : 54.681239,
+				"LONGITUDE" : 25.284536,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.287873, 54.681495], [25.287496, 54.680449], [25.283488, 54.678165], [25.280536, 54.679397], [25.282083, 54.683821], [25.28746, 54.682424], [25.287873, 54.681495]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 139,
+			"properties" : {
+				"STATION" : "VL141",
+				"LATITUDE" : 54.680453,
+				"LONGITUDE" : 25.297589,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.301604, 54.682499], [25.299489, 54.676322], [25.294535, 54.676389], [25.293641, 54.681471], [25.296342, 54.68735], [25.301604, 54.682499]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 140,
+			"properties" : {
+				"STATION" : "VL147",
+				"LATITUDE" : 54.684883,
+				"LONGITUDE" : 25.285483,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.288132, 54.685424], [25.28746, 54.682424], [25.282083, 54.683821], [25.282015, 54.684129], [25.283173, 54.687581], [25.288132, 54.685424]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 141,
+			"properties" : {
+				"STATION" : "VL150",
+				"LATITUDE" : 54.675206,
+				"LONGITUDE" : 25.288528,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.293543, 54.675357], [25.292481, 54.672148], [25.290367, 54.669863], [25.289887, 54.669769], [25.285619, 54.674748], [25.288899, 54.677409], [25.293543, 54.675357]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 142,
+			"properties" : {
+				"STATION" : "VL161",
+				"LATITUDE" : 54.687731,
+				"LONGITUDE" : 25.286722,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.292112, 54.689046], [25.288132, 54.685424], [25.283173, 54.687581], [25.283032, 54.688671], [25.287816, 54.691627], [25.292112, 54.689046]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 143,
+			"properties" : {
+				"STATION" : "VL182",
+				"LATITUDE" : 54.686667,
+				"LONGITUDE" : 25.303317,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.299986, 54.691167], [25.310567, 54.685143], [25.30993, 54.683659], [25.308747, 54.682677], [25.301604, 54.682499], [25.296342, 54.68735], [25.296005, 54.688882], [25.296876, 54.690294], [25.299986, 54.691167]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 144,
+			"properties" : {
+				"STATION" : "VL239",
+				"LATITUDE" : 54.675258,
+				"LONGITUDE" : 25.282039,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.283488, 54.678165], [25.285046, 54.674949], [25.280667, 54.671404], [25.279081, 54.676043], [25.280386, 54.679333], [25.280536, 54.679397], [25.283488, 54.678165]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 145,
+			"properties" : {
+				"STATION" : "VL250",
+				"LATITUDE" : 54.683331,
+				"LONGITUDE" : 25.278556,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.282083, 54.683821], [25.280536, 54.679397], [25.280386, 54.679333], [25.276506, 54.680775], [25.274898, 54.683761], [25.276726, 54.685198], [25.279646, 54.684907], [25.282015, 54.684129], [25.282083, 54.683821]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 146,
+			"properties" : {
+				"STATION" : "VL270",
+				"LATITUDE" : 54.686667,
+				"LONGITUDE" : 25.278889,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Senamiesčio sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.278505, 54.690897], [25.279646, 54.684907], [25.276726, 54.685198], [25.277874, 54.690621], [25.278505, 54.690897]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 147,
+			"properties" : {
+				"STATION" : "VL038",
+				"LATITUDE" : 54.714722,
+				"LONGITUDE" : 25.230833,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.237117, 54.716519], [25.23741, 54.715161], [25.232417, 54.710394], [25.22506, 54.712888], [25.229355, 54.721001], [25.236175, 54.718011], [25.237117, 54.716519]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 148,
+			"properties" : {
+				"STATION" : "VL077",
+				"LATITUDE" : 54.709167,
+				"LONGITUDE" : 25.260833,
+				"CELLS_NUMBER" : 17.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.260811, 54.71361], [25.265436, 54.705687], [25.262466, 54.705188], [25.256227, 54.706741], [25.259251, 54.713198], [25.260811, 54.71361]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 149,
+			"properties" : {
+				"STATION" : "VL119",
+				"LATITUDE" : 54.714444,
+				"LONGITUDE" : 25.246667,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.251628, 54.715487], [25.248618, 54.705718], [25.244952, 54.705896], [25.241335, 54.712097], [25.247765, 54.718647], [25.251628, 54.715487]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 150,
+			"properties" : {
+				"STATION" : "VL155",
+				"LATITUDE" : 54.711406,
+				"LONGITUDE" : 25.264669,
+				"CELLS_NUMBER" : 7.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.265113, 54.717883], [25.268927, 54.707812], [25.267919, 54.705645], [25.265925, 54.705573], [25.265436, 54.705687], [25.260811, 54.71361], [25.265113, 54.717883]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 151,
+			"properties" : {
+				"STATION" : "VL244",
+				"LATITUDE" : 54.717483,
+				"LONGITUDE" : 25.258633,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.266631, 54.721937], [25.265113, 54.717883], [25.260811, 54.71361], [25.259251, 54.713198], [25.25401, 54.716436], [25.255786, 54.720461], [25.260405, 54.724546], [25.26566, 54.723271], [25.266631, 54.721937]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 152,
+			"properties" : {
+				"STATION" : "VL246",
+				"LATITUDE" : 54.713325,
+				"LONGITUDE" : 25.269736,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.269465, 54.721251], [25.272861, 54.710666], [25.268927, 54.707812], [25.265113, 54.717883], [25.266631, 54.721937], [25.269465, 54.721251]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 153,
+			"properties" : {
+				"STATION" : "VL254",
+				"LATITUDE" : 54.717472,
+				"LONGITUDE" : 25.243583,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.247765, 54.718647], [25.241335, 54.712097], [25.23741, 54.715161], [25.237117, 54.716519], [25.246612, 54.721669], [25.247765, 54.718647]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 154,
+			"properties" : {
+				"STATION" : "VL309",
+				"LATITUDE" : 54.711833,
+				"LONGITUDE" : 25.255142,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šeškinės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.259251, 54.713198], [25.256227, 54.706741], [25.253901, 54.705747], [25.250022, 54.704824], [25.248618, 54.705718], [25.251628, 54.715487], [25.25401, 54.716436], [25.259251, 54.713198]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 155,
+			"properties" : {
+				"STATION" : "VL106",
+				"LATITUDE" : 54.695558,
+				"LONGITUDE" : 25.278886,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.281832, 54.694708], [25.279603, 54.691219], [25.278978, 54.69116], [25.277305, 54.694745], [25.278704, 54.696329], [25.281832, 54.694708]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 156,
+			"properties" : {
+				"STATION" : "VL107",
+				"LATITUDE" : 54.696414,
+				"LONGITUDE" : 25.277917,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.27818, 54.700109], [25.278704, 54.696329], [25.277305, 54.694745], [25.276065, 54.695929], [25.275585, 54.700744], [25.27818, 54.700109]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 157,
+			"properties" : {
+				"STATION" : "VL113",
+				"LATITUDE" : 54.697500,
+				"LONGITUDE" : 25.266667,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.267737, 54.699931], [25.269012, 54.695676], [25.265647, 54.695325], [25.263388, 54.696568], [25.263547, 54.696886], [25.267737, 54.699931]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 158,
+			"properties" : {
+				"STATION" : "VL132",
+				"LATITUDE" : 54.694056,
+				"LONGITUDE" : 25.275667,
+				"CELLS_NUMBER" : 16.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.277305, 54.694745], [25.278978, 54.69116], [25.278505, 54.690897], [25.277874, 54.690621], [25.273504, 54.690834], [25.271489, 54.692296], [25.271479, 54.692428], [25.276065, 54.695929], [25.277305, 54.694745]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 159,
+			"properties" : {
+				"STATION" : "VL162",
+				"LATITUDE" : 54.703508,
+				"LONGITUDE" : 25.279653,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.284871, 54.705504], [25.283427, 54.699946], [25.27818, 54.700109], [25.275585, 54.700744], [25.275401, 54.700879], [25.274873, 54.701819], [25.280018, 54.709833], [25.280584, 54.709855], [25.284871, 54.705504]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 160,
+			"properties" : {
+				"STATION" : "VL166",
+				"LATITUDE" : 54.706869,
+				"LONGITUDE" : 25.274419,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.280018, 54.709833], [25.274873, 54.701819], [25.269784, 54.703959], [25.26883, 54.704466], [25.267919, 54.705645], [25.268927, 54.707812], [25.272861, 54.710666], [25.277714, 54.711017], [25.280018, 54.709833]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 161,
+			"properties" : {
+				"STATION" : "VL176",
+				"LATITUDE" : 54.692392,
+				"LONGITUDE" : 25.283842,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.286319, 54.696719], [25.287816, 54.691627], [25.283032, 54.688671], [25.279603, 54.691219], [25.281832, 54.694708], [25.284619, 54.697607], [25.286319, 54.696719]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 162,
+			"properties" : {
+				"STATION" : "VL196",
+				"LATITUDE" : 54.698489,
+				"LONGITUDE" : 25.269967,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.269784, 54.703959], [25.27087, 54.695231], [25.270604, 54.694776], [25.269012, 54.695676], [25.267737, 54.699931], [25.26883, 54.704466], [25.269784, 54.703959]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 163,
+			"properties" : {
+				"STATION" : "VL207",
+				"LATITUDE" : 54.696625,
+				"LONGITUDE" : 25.279439,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.283427, 54.699946], [25.284619, 54.697607], [25.281832, 54.694708], [25.278704, 54.696329], [25.27818, 54.700109], [25.283427, 54.699946]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 164,
+			"properties" : {
+				"STATION" : "VL224",
+				"LATITUDE" : 54.696039,
+				"LONGITUDE" : 25.274153,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.275585, 54.700744], [25.276065, 54.695929], [25.271479, 54.692428], [25.270604, 54.694776], [25.27087, 54.695231], [25.275401, 54.700879], [25.275585, 54.700744]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 165,
+			"properties" : {
+				"STATION" : "VL229",
+				"LATITUDE" : 54.698611,
+				"LONGITUDE" : 25.270947,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.275401, 54.700879], [25.27087, 54.695231], [25.269784, 54.703959], [25.274873, 54.701819], [25.275401, 54.700879]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 166,
+			"properties" : {
+				"STATION" : "VL281",
+				"LATITUDE" : 54.699664,
+				"LONGITUDE" : 25.265094,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Šnipiškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.26883, 54.704466], [25.267737, 54.699931], [25.263547, 54.696886], [25.26365, 54.70026], [25.265925, 54.705573], [25.267919, 54.705645], [25.26883, 54.704466]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 167,
+			"properties" : {
+				"STATION" : "NULL4",
+				"LATITUDE" : 54.716112,
+				"LONGITUDE" : 25.279168,
+				"CELLS_NUMBER" : 5.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.280238, 54.724073], [25.284479, 54.715443], [25.282572, 54.712707], [25.278095, 54.717184], [25.278741, 54.723349], [25.280238, 54.724073]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 168,
+			"properties" : {
+				"STATION" : "NULL5",
+				"LATITUDE" : 54.759592,
+				"LONGITUDE" : 25.267583,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.275105, 54.766846], [25.275875, 54.756329], [25.273962, 54.752495], [25.254747, 54.762083], [25.247074, 54.774761], [25.2581, 54.776778], [25.275105, 54.766846]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 169,
+			"properties" : {
+				"STATION" : "NULL6",
+				"LATITUDE" : 54.802683,
+				"LONGITUDE" : 25.297594,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.324693, 54.806411], [25.307461, 54.77935], [25.301904, 54.778821], [25.279877, 54.795834], [25.279615, 54.797321], [25.325229, 54.811883], [25.324693, 54.806411]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 170,
+			"properties" : {
+				"STATION" : "VL007",
+				"LATITUDE" : 54.734722,
+				"LONGITUDE" : 25.262500,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.262191, 54.743648], [25.269577, 54.734198], [25.268439, 54.732315], [25.255486, 54.734133], [25.254354, 54.736961], [25.262191, 54.743648]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 171,
+			"properties" : {
+				"STATION" : "VL039",
+				"LATITUDE" : 54.751669,
+				"LONGITUDE" : 25.283469,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.292357, 54.756087], [25.294235, 54.744007], [25.286986, 54.74127], [25.279044, 54.744104], [25.273786, 54.750473], [25.273962, 54.752495], [25.275875, 54.756329], [25.292357, 54.756087]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 172,
+			"properties" : {
+				"STATION" : "VL076",
+				"LATITUDE" : 54.780278,
+				"LONGITUDE" : 25.332778,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.350016, 54.78027], [25.347491, 54.765714], [25.322972, 54.760877], [25.307461, 54.77935], [25.324693, 54.806411], [25.350016, 54.78027]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 173,
+			"properties" : {
+				"STATION" : "VL092",
+				"LATITUDE" : 54.728175,
+				"LONGITUDE" : 25.273331,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.282366, 54.727707], [25.280238, 54.724073], [25.278741, 54.723349], [25.271967, 54.721348], [25.269465, 54.721251], [25.266631, 54.721937], [25.26566, 54.723271], [25.268439, 54.732315], [25.269577, 54.734198], [25.271037, 54.734484], [25.282366, 54.727707]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 174,
+			"properties" : {
+				"STATION" : "VL102",
+				"LATITUDE" : 54.754575,
+				"LONGITUDE" : 25.302167,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.307461, 54.77935], [25.322972, 54.760877], [25.322467, 54.758504], [25.300436, 54.74111], [25.294235, 54.744007], [25.292357, 54.756087], [25.298811, 54.775444], [25.301904, 54.778821], [25.307461, 54.77935]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 175,
+			"properties" : {
+				"STATION" : "VL124",
+				"LATITUDE" : 54.797500,
+				"LONGITUDE" : 25.350556,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.356521, 54.834414], [25.363491, 54.789454], [25.350016, 54.78027], [25.324693, 54.806411], [25.325229, 54.811883], [25.327715, 54.834414], [25.356521, 54.834414]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 176,
+			"properties" : {
+				"STATION" : "VL163",
+				"LATITUDE" : 54.716111,
+				"LONGITUDE" : 25.279167,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.282572, 54.712707], [25.280584, 54.709855], [25.280018, 54.709833], [25.277714, 54.711017], [25.277519, 54.711723], [25.278095, 54.717184], [25.282572, 54.712707]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 177,
+			"properties" : {
+				"STATION" : "VL164",
+				"LATITUDE" : 54.731636,
+				"LONGITUDE" : 25.262067,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.268439, 54.732315], [25.26566, 54.723271], [25.260405, 54.724546], [25.256278, 54.72914], [25.255486, 54.734133], [25.268439, 54.732315]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 178,
+			"properties" : {
+				"STATION" : "VL169",
+				"LATITUDE" : 54.753325,
+				"LONGITUDE" : 25.264456,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.273962, 54.752495], [25.273786, 54.750473], [25.262406, 54.744543], [25.25792, 54.750754], [25.254747, 54.762083], [25.273962, 54.752495]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 179,
+			"properties" : {
+				"STATION" : "VL173",
+				"LATITUDE" : 54.741192,
+				"LONGITUDE" : 25.270778,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.279044, 54.744104], [25.271037, 54.734484], [25.269577, 54.734198], [25.262191, 54.743648], [25.262406, 54.744543], [25.273786, 54.750473], [25.279044, 54.744104]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 180,
+			"properties" : {
+				"STATION" : "VL185",
+				"LATITUDE" : 54.749556,
+				"LONGITUDE" : 25.251000,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.254747, 54.762083], [25.25792, 54.750754], [25.244669, 54.743099], [25.237761, 54.7498], [25.234756, 54.756489], [25.240053, 54.776249], [25.247074, 54.774761], [25.254747, 54.762083]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 181,
+			"properties" : {
+				"STATION" : "VL195",
+				"LATITUDE" : 54.774472,
+				"LONGITUDE" : 25.366250,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.384295, 54.778748], [25.354224, 54.759372], [25.353931, 54.759501], [25.347491, 54.765714], [25.350016, 54.78027], [25.363491, 54.789454], [25.381064, 54.784736], [25.384295, 54.778748]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 182,
+			"properties" : {
+				"STATION" : "VL200",
+				"LATITUDE" : 54.745358,
+				"LONGITUDE" : 25.253425,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.262191, 54.743648], [25.254354, 54.736961], [25.247363, 54.738493], [25.244669, 54.743099], [25.25792, 54.750754], [25.262406, 54.744543], [25.262191, 54.743648]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 183,
+			"properties" : {
+				"STATION" : "VL202",
+				"LATITUDE" : 54.760764,
+				"LONGITUDE" : 25.283603,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.298811, 54.775444], [25.292357, 54.756087], [25.275875, 54.756329], [25.275105, 54.766846], [25.298811, 54.775444]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 184,
+			"properties" : {
+				"STATION" : "VL206",
+				"LATITUDE" : 54.716358,
+				"LONGITUDE" : 25.276822,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.278741, 54.723349], [25.278095, 54.717184], [25.277519, 54.711723], [25.271967, 54.721348], [25.278741, 54.723349]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 185,
+			"properties" : {
+				"STATION" : "VL222",
+				"LATITUDE" : 54.714647,
+				"LONGITUDE" : 25.273856,
+				"CELLS_NUMBER" : 4.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.271967, 54.721348], [25.277519, 54.711723], [25.277714, 54.711017], [25.272861, 54.710666], [25.269465, 54.721251], [25.271967, 54.721348]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 186,
+			"properties" : {
+				"STATION" : "VL238",
+				"LATITUDE" : 54.735447,
+				"LONGITUDE" : 25.277681,
+				"CELLS_NUMBER" : 7.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.286986, 54.74127], [25.282748, 54.727944], [25.282366, 54.727707], [25.271037, 54.734484], [25.279044, 54.744104], [25.286986, 54.74127]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 187,
+			"properties" : {
+				"STATION" : "VL305",
+				"LATITUDE" : 54.731142,
+				"LONGITUDE" : 25.291219,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Verkių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.302001, 54.736941], [25.291253, 54.724856], [25.282748, 54.727944], [25.286986, 54.74127], [25.294235, 54.744007], [25.300436, 54.74111], [25.302001, 54.736941]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 188,
+			"properties" : {
+				"STATION" : "VL008",
+				"LATITUDE" : 54.671250,
+				"LONGITUDE" : 25.253833,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.254334, 54.674945], [25.255319, 54.669564], [25.250146, 54.66741], [25.246379, 54.670788], [25.24612, 54.675028], [25.250014, 54.676028], [25.254334, 54.674945]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 189,
+			"properties" : {
+				"STATION" : "VL017",
+				"LATITUDE" : 54.671667,
+				"LONGITUDE" : 25.256111,
+				"CELLS_NUMBER" : 7.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.260383, 54.675369], [25.26186, 54.668882], [25.256362, 54.66941], [25.255319, 54.669564], [25.254334, 54.674945], [25.260383, 54.675369]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 190,
+			"properties" : {
+				"STATION" : "VL026",
+				"LATITUDE" : 54.657222,
+				"LONGITUDE" : 25.238333,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.2499, 54.650143], [25.247816, 54.645757], [25.239437, 54.638406], [25.235245, 54.637913], [25.227516, 54.664282], [25.240027, 54.663717], [25.2499, 54.650143]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 191,
+			"properties" : {
+				"STATION" : "VL036",
+				"LATITUDE" : 54.641356,
+				"LONGITUDE" : 25.204919,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.223946, 54.630818], [25.205224, 54.597908], [25.201978, 54.595549], [25.195308, 54.640072], [25.205322, 54.656707], [25.20786, 54.655795], [25.223946, 54.630818]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 192,
+			"properties" : {
+				"STATION" : "VL053",
+				"LATITUDE" : 54.663328,
+				"LONGITUDE" : 25.246728,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.250146, 54.66741], [25.253178, 54.660774], [25.255581, 54.655275], [25.2499, 54.650143], [25.240027, 54.663717], [25.246379, 54.670788], [25.250146, 54.66741]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 193,
+			"properties" : {
+				"STATION" : "VL084",
+				"LATITUDE" : 54.649167,
+				"LONGITUDE" : 25.191944,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.205322, 54.656707], [25.195308, 54.640072], [25.173857, 54.652525], [25.179105, 54.662624], [25.192312, 54.663281], [25.204176, 54.658039], [25.205322, 54.656707]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 194,
+			"properties" : {
+				"STATION" : "VL136",
+				"LATITUDE" : 54.652500,
+				"LONGITUDE" : 25.222222,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.227516, 54.664282], [25.235245, 54.637913], [25.223946, 54.630818], [25.20786, 54.655795], [25.227169, 54.664607], [25.227516, 54.664282]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 195,
+			"properties" : {
+				"STATION" : "VL146",
+				"LATITUDE" : 54.683056,
+				"LONGITUDE" : 25.235556,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.243657, 54.68799], [25.243027, 54.67823], [25.232851, 54.675535], [25.22828, 54.688056], [25.232256, 54.694698], [25.233305, 54.6955], [25.243657, 54.68799]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 196,
+			"properties" : {
+				"STATION" : "VL291",
+				"LATITUDE" : 54.670339,
+				"LONGITUDE" : 25.238925,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Vilkpėdės sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.246379, 54.670788], [25.240027, 54.663717], [25.227516, 54.664282], [25.227169, 54.664607], [25.226999, 54.667277], [25.232851, 54.675535], [25.243027, 54.67823], [25.24612, 54.675028], [25.246379, 54.670788]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 197,
+			"properties" : {
+				"STATION" : "VL004",
+				"LATITUDE" : 54.700925,
+				"LONGITUDE" : 25.221881,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Viršuliškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.223831, 54.705728], [25.23347, 54.696571], [25.233305, 54.6955], [25.232256, 54.694698], [25.21701, 54.697196], [25.216288, 54.701167], [25.216669, 54.703787], [25.223831, 54.705728]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 198,
+			"properties" : {
+				"STATION" : "VL099",
+				"LATITUDE" : 54.708611,
+				"LONGITUDE" : 25.236667,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Viršuliškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.241335, 54.712097], [25.244952, 54.705896], [25.233573, 54.696738], [25.232417, 54.710394], [25.23741, 54.715161], [25.241335, 54.712097]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 199,
+			"properties" : {
+				"STATION" : "VL110",
+				"LATITUDE" : 54.708889,
+				"LONGITUDE" : 25.219722,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Viršuliškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.224593, 54.712663], [25.223831, 54.705728], [25.216669, 54.703787], [25.211327, 54.711227], [25.22058, 54.71414], [25.224593, 54.712663]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 200,
+			"properties" : {
+				"STATION" : "VL228",
+				"LATITUDE" : 54.702525,
+				"LONGITUDE" : 25.210858,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Viršuliškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.211327, 54.711227], [25.216669, 54.703787], [25.216288, 54.701167], [25.198202, 54.699736], [25.197668, 54.700161], [25.198835, 54.706695], [25.205437, 54.713522], [25.211327, 54.711227]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 201,
+			"properties" : {
+				"STATION" : "VL499",
+				"LATITUDE" : 54.707922,
+				"LONGITUDE" : 25.228528,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Viršuliškių sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.232417, 54.710394], [25.233573, 54.696738], [25.23347, 54.696571], [25.223831, 54.705728], [25.224593, 54.712663], [25.22506, 54.712888], [25.232417, 54.710394]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 202,
+			"properties" : {
+				"STATION" : "VL175",
+				"LATITUDE" : 54.718572,
+				"LONGITUDE" : 25.194264,
+				"CELLS_NUMBER" : 9.000000,
+				"SENIUNIJA" : "Zujūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.205825, 54.727702], [25.205437, 54.713522], [25.198835, 54.706695], [25.181276, 54.719006], [25.179329, 54.721985], [25.204492, 54.731509], [25.205825, 54.727702]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 203,
+			"properties" : {
+				"STATION" : "VL211",
+				"LATITUDE" : 54.734431,
+				"LONGITUDE" : 25.188261,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Zujūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.202849, 54.746393], [25.205254, 54.735208], [25.204492, 54.731509], [25.179329, 54.721985], [25.172076, 54.725097], [25.160026, 54.737877], [25.198491, 54.751612], [25.202849, 54.746393]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 204,
+			"properties" : {
+				"STATION" : "VL006",
+				"LATITUDE" : 54.710692,
+				"LONGITUDE" : 25.286944,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.291299, 54.71355], [25.286203, 54.705717], [25.284871, 54.705504], [25.280584, 54.709855], [25.282572, 54.712707], [25.284479, 54.715443], [25.290618, 54.715279], [25.291268, 54.714126], [25.291299, 54.71355]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 205,
+			"properties" : {
+				"STATION" : "VL029",
+				"LATITUDE" : 54.694422,
+				"LONGITUDE" : 25.290744,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.294675, 54.699528], [25.296876, 54.690294], [25.296005, 54.688882], [25.292112, 54.689046], [25.287816, 54.691627], [25.286319, 54.696719], [25.294675, 54.699528]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 206,
+			"properties" : {
+				"STATION" : "VL055",
+				"LATITUDE" : 54.696744,
+				"LONGITUDE" : 25.300486,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.305548, 54.701597], [25.307015, 54.696968], [25.299986, 54.691167], [25.296876, 54.690294], [25.294675, 54.699528], [25.295909, 54.702843], [25.305548, 54.701597]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 207,
+			"properties" : {
+				"STATION" : "VL056",
+				"LATITUDE" : 54.714850,
+				"LONGITUDE" : 25.303078,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.309051, 54.718829], [25.308931, 54.710157], [25.300241, 54.711581], [25.299368, 54.713278], [25.299911, 54.716281], [25.309051, 54.718829]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 208,
+			"properties" : {
+				"STATION" : "VL080",
+				"LATITUDE" : 54.701222,
+				"LONGITUDE" : 25.288458,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.295909, 54.702843], [25.294675, 54.699528], [25.286319, 54.696719], [25.284619, 54.697607], [25.283427, 54.699946], [25.284871, 54.705504], [25.286203, 54.705717], [25.295808, 54.703056], [25.295909, 54.702843]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 209,
+			"properties" : {
+				"STATION" : "VL089",
+				"LATITUDE" : 54.707578,
+				"LONGITUDE" : 25.301886,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.309968, 54.708256], [25.305548, 54.701597], [25.295909, 54.702843], [25.295808, 54.703056], [25.295906, 54.7044], [25.300241, 54.711581], [25.308931, 54.710157], [25.309968, 54.708256]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 210,
+			"properties" : {
+				"STATION" : "VL123",
+				"LATITUDE" : 54.725556,
+				"LONGITUDE" : 25.297500,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.309043, 54.72874], [25.297363, 54.72076], [25.293192, 54.721223], [25.291253, 54.724856], [25.302001, 54.736941], [25.309043, 54.72874]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 211,
+			"properties" : {
+				"STATION" : "VL133",
+				"LATITUDE" : 54.711172,
+				"LONGITUDE" : 25.295933,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.300241, 54.711581], [25.295906, 54.7044], [25.291299, 54.71355], [25.291268, 54.714126], [25.299368, 54.713278], [25.300241, 54.711581]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 212,
+			"properties" : {
+				"STATION" : "VL181",
+				"LATITUDE" : 54.719144,
+				"LONGITUDE" : 25.301881,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.3109, 54.724233], [25.309051, 54.718829], [25.299911, 54.716281], [25.297363, 54.72076], [25.309043, 54.72874], [25.310272, 54.728019], [25.3109, 54.724233]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 213,
+			"properties" : {
+				"STATION" : "VL248",
+				"LATITUDE" : 54.708411,
+				"LONGITUDE" : 25.290450,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.291299, 54.71355], [25.295906, 54.7044], [25.295808, 54.703056], [25.286203, 54.705717], [25.291299, 54.71355]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 214,
+			"properties" : {
+				"STATION" : "VL266",
+				"LATITUDE" : 54.716050,
+				"LONGITUDE" : 25.296444,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.297363, 54.72076], [25.299911, 54.716281], [25.299368, 54.713278], [25.291268, 54.714126], [25.290618, 54.715279], [25.293192, 54.721223], [25.297363, 54.72076]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 215,
+			"properties" : {
+				"STATION" : "VL272",
+				"LATITUDE" : 54.720056,
+				"LONGITUDE" : 25.287194,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žirmūnų sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.291253, 54.724856], [25.293192, 54.721223], [25.290618, 54.715279], [25.284479, 54.715443], [25.280238, 54.724073], [25.282366, 54.727707], [25.282748, 54.727944], [25.291253, 54.724856]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 216,
+			"properties" : {
+				"STATION" : "NULL7",
+				"LATITUDE" : 54.702439,
+				"LONGITUDE" : 25.259158,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.262466, 54.705188], [25.26006, 54.700417], [25.259959, 54.700303], [25.253901, 54.705747], [25.256227, 54.706741], [25.262466, 54.705188]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 217,
+			"properties" : {
+				"STATION" : "VL037",
+				"LATITUDE" : 54.697222,
+				"LONGITUDE" : 25.245833,
+				"CELLS_NUMBER" : 12.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.250812, 54.702246], [25.251753, 54.693972], [25.246124, 54.68884], [25.243657, 54.68799], [25.233305, 54.6955], [25.23347, 54.696571], [25.233573, 54.696738], [25.244952, 54.705896], [25.248618, 54.705718], [25.250022, 54.704824], [25.250812, 54.702246]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 218,
+			"properties" : {
+				"STATION" : "VL065",
+				"LATITUDE" : 54.687778,
+				"LONGITUDE" : 25.254444,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.258303, 54.690879], [25.257239, 54.687447], [25.257216, 54.687388], [25.257078, 54.687104], [25.254615, 54.683813], [25.246124, 54.68884], [25.251753, 54.693972], [25.254575, 54.693352], [25.258303, 54.690879]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 219,
+			"properties" : {
+				"STATION" : "VL204",
+				"LATITUDE" : 54.700872,
+				"LONGITUDE" : 25.257750,
+				"CELLS_NUMBER" : 4.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.253901, 54.705747], [25.259959, 54.700303], [25.259567, 54.698755], [25.250812, 54.702246], [25.250022, 54.704824], [25.253901, 54.705747]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 220,
+			"properties" : {
+				"STATION" : "VL205",
+				"LATITUDE" : 54.700894,
+				"LONGITUDE" : 25.262222,
+				"CELLS_NUMBER" : 6.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.265925, 54.705573], [25.26365, 54.70026], [25.26006, 54.700417], [25.262466, 54.705188], [25.265436, 54.705687], [25.265925, 54.705573]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 221,
+			"properties" : {
+				"STATION" : "VL218",
+				"LATITUDE" : 54.698469,
+				"LONGITUDE" : 25.256792,
+				"CELLS_NUMBER" : 15.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.259633, 54.69848], [25.254575, 54.693352], [25.251753, 54.693972], [25.250812, 54.702246], [25.259567, 54.698755], [25.259633, 54.69848]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 222,
+			"properties" : {
+				"STATION" : "VL225",
+				"LATITUDE" : 54.699753,
+				"LONGITUDE" : 25.262172,
+				"CELLS_NUMBER" : 1.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.26365, 54.70026], [25.263547, 54.696886], [25.263388, 54.696568], [25.262986, 54.696433], [25.259633, 54.69848], [25.259567, 54.698755], [25.259959, 54.700303], [25.26006, 54.700417], [25.26365, 54.70026]]]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : 223,
+			"properties" : {
+				"STATION" : "VL226",
+				"LATITUDE" : 54.695639,
+				"LONGITUDE" : 25.259661,
+				"CELLS_NUMBER" : 3.000000,
+				"SENIUNIJA" : "Žvėryno sen.",
+				"optional" : 1
+			},
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [[[25.262986, 54.696433], [25.261443, 54.693335], [25.258805, 54.690882], [25.258303, 54.690879], [25.254575, 54.693352], [25.259633, 54.69848], [25.262986, 54.696433]]]
+			}
+		}
+	]
+}
